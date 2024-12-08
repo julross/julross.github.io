@@ -164,7 +164,7 @@ body {
     min-width: 320px;
     overflow-x: hidden;
     word-wrap: break-word;
-    background-color: #C7E3F2;
+    background-color: #F9EAE5;
 }
 
 :root {
@@ -759,7 +759,7 @@ p.style2 span.p:nth-child(n + 2) {
     width: 100%;
     align-items: center;
     justify-content: center;
-    background-color: #4299FF;
+    background-color: #BC6C64;
     border-color: #CBC3E3;
     border-style: solid;
 }
@@ -930,7 +930,7 @@ p.style2 span.p:nth-child(n + 2) {
     width: 100%;
     align-items: center;
     justify-content: center;
-    background-color: #3288ED;
+    background-color: #FED1B5;
     border-color: rgba(255, 255, 255, 0.259);
     border-style: solid;
 }
@@ -1101,7 +1101,7 @@ p.style2 span.p:nth-child(n + 2) {
     width: 100%;
     align-items: center;
     justify-content: center;
-    background-color: #277DE3;
+    background-color: #FFE2CA;
     border-color: rgba(255, 255, 255, 0.259);
     border-style: solid;
 }
