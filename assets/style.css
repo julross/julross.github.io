@@ -930,7 +930,7 @@ p.style2 span.p:nth-child(n + 2) {
     width: 100%;
     align-items: center;
     justify-content: center;
-    background-color: #FED1B5;
+    background-color: #FFBDA6;
     border-color: rgba(255, 255, 255, 0.259);
     border-style: solid;
 }
@@ -1101,7 +1101,7 @@ p.style2 span.p:nth-child(n + 2) {
     width: 100%;
     align-items: center;
     justify-content: center;
-    background-color: #FFE2CA;
+    background-color: #FED1B5;
     border-color: rgba(255, 255, 255, 0.259);
     border-style: solid;
 }
